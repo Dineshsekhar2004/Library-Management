@@ -33,8 +33,7 @@ Register number : 212221230125
 
 #Sequence Diagram:
 ![image](https://github.com/VismayaNair/Library-Management/assets/93427210/9bf96497-aed8-46a4-a155-951557f76486)
-#STATECHART DIAGRAM:
-![image](https://github.com/Dineshsekhar2004/Library-Management/assets/119405916/5373d900-c6c9-4132-bb33-8f2b4e92c514)
+
 
 
 #Activity Diagram:
