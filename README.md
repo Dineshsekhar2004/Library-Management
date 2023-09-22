@@ -33,6 +33,9 @@ Register number : 212221230125
 
 #Sequence Diagram:
 ![image](https://github.com/VismayaNair/Library-Management/assets/93427210/9bf96497-aed8-46a4-a155-951557f76486)
+#STATECHART DIAGRAM:
+![image](https://github.com/Dineshsekhar2004/Library-Management/assets/119405916/5373d900-c6c9-4132-bb33-8f2b4e92c514)
+
 
 #Activity Diagram:
 ![image](https://github.com/VismayaNair/Library-Management/assets/93427210/6e3f2c39-cc9c-4505-ae9c-a39632ba5254)
@@ -41,6 +44,8 @@ Register number : 212221230125
 
 ![image](https://github.com/VismayaNair/Library-Management/assets/93427210/a9510d24-c9f0-4570-8bea-abdfc516a6ba)
 
+PACKAGE DAIGRAM:
+![image](https://github.com/Dineshsekhar2004/Library-Management/assets/119405916/19e187b7-d447-45b7-85a2-19a57109fcbf)
 
 
 
